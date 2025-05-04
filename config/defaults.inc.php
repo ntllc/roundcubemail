@@ -1318,7 +1318,7 @@ $config['collected_senders'] = true;
 $config['default_charset'] = 'ISO-8859-1';
 
 // Skin name: folder from skins/
-$config['skin'] = 'elastic';
+$config['skin'] = 'classic';
 
 // Limit skins available for the user.
 // Note: When not empty, it should include the default skin set in 'skin' option.
